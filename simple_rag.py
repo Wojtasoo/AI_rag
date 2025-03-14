@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""Zadanie1_simple_RAG.ipynb
-
-Original file is located at
-    https://colab.research.google.com/drive/1sOZ3AwxBoWPrQ_OnxH8ZOPQlxAmocX5E
-"""
 
 from dotenv import load_dotenv
 import os
